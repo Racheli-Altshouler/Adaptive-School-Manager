@@ -1,5 +1,5 @@
 <div align="center" dir="rtl">
-
+פרוייקט זה נעשה בשיתוף עם חברה
 <br/>
 
 # 🏫 Adaptive School Manager
